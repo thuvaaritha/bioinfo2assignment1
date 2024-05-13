@@ -3,4 +3,3 @@ seaborn
 networkx
 requests
 Bio
-Seq10
